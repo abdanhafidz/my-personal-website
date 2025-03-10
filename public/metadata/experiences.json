@@ -1,0 +1,128 @@
+[
+  {
+      "title": "Vice Director",
+      "time": "Jan 2025 - Present",
+      "organization": "National Programming Contest (NPC) - Schematics ITS",
+      "url": "https://schematics.its.ac.id/npc",
+      "description": "Leading the National Programming Contest 2025, organizing competitive programming competitions at the national level."
+  },
+  {
+      "title": "Back End Developer",
+      "time": "Feb 2025 - Present",
+      "organization": "Qobiltu Indonesia",
+      "url": "https://qobiltu.id",
+      "description": "Developing and maintaining back-end services, optimizing APIs, and ensuring system scalability."
+  },
+  {
+      "title": "Chief Technology Officer",
+      "time": "Oct 2020 - Present",
+      "organization": "Yayasan Pelatihan Sains Pelajar Indonesia",
+      "url": "https://forpelindo.com",
+      "description": "National Education Foundation, empowering and developing Indonesian students' talents in the field of science."
+  },
+  {
+      "title": "Website Developer",
+      "time": "2021 - Present",
+      "organization": "EvalatorKSN",
+      "url": "https://evalatorksn.com/",
+      "description": "A forum that focuses on education as a provider of information, a forum for the development and training of Indonesian students on the interests and talents of the Olympics or competitions, especially the National Science Competition organized by the Indonesian Ministry of Education and Culture."
+  },
+  {
+      "title": "Founder",
+      "time": "2021 - Present",
+      "organization": "The Quzuu Exam Platform",
+      "url": "#",
+      "description": "Self-developed platform, used in organizing try outs, practice questions, quizzes. Has been used in organizing the National Science Competition Try Out in Informatics."
+  },
+  {
+      "title": "CEO & Founder",
+      "time": "2022 - Present",
+      "organization": "Feez Edutech Platform",
+      "url": "https://kelasfeez.id",
+      "description": "Potential education and skill development platform for students in Indonesia in the field of technology and digital innovation."
+  },
+  {
+      "title": "Informatics Trainer",
+      "time": "Oct 2024 - Present",
+      "organization": "Lembaga Olimpiade Pendidikan Indonesia",
+      "url": "https://lopi.id",
+      "description": "Conducting Training of Trainer (ToT) programs for OSN Informatika trainers and guiding students in competitive programming."
+  },
+  {
+      "title": "Assistant Lecturer",
+      "time": "Aug 2024 - Present",
+      "organization": "Institut Teknologi Sepuluh Nopember (ITS)",
+      "url": "https://its.ac.id",
+      "description": "Teaching Fundamental Programming (Python), Discrete Math, Data Structure, and Graph Theory, mentoring students in computational problem-solving."
+  },
+  {
+      "title": "Informatics Teacher",
+      "time": "Aug 2024 - Present",
+      "organization": "EvalatorKSN",
+      "url": "https://evalatorksn.com",
+      "description": "Providing training for high school students preparing for the National Science Competition (OSNK) in Informatics."
+  },
+  {
+      "title": "Project Manager",
+      "time": "Aug 2024 - Present",
+      "organization": "Website Development, MABA CUP ITS",
+      "url": "https://mabacup.its.ac.id",
+      "description": "Managing the website development team for MABA CUP ITS, ensuring smooth online event operations."
+  },
+  {
+      "title": "Software Engineer",
+      "time": "Oct 2024 - Jan 2025",
+      "organization": "PEMIRA IKM FF UI 2024",
+      "url": "https://pemira-ikm-ff-ui.id/",
+      "description": "Solo man working on Developed a full-stack monolithic e-voting system with Laravel PHP, integrated CAS Single-Sign-On (SSO UI), RSA encryption, SHA-256, and implemented security engineering for anonymous voting."
+  },
+  {
+      "title": "Back End Developer",
+      "time": "Sep 2023 - Mar 2024",
+      "organization": "MABA CUP ITS 2023",
+      "url": "https://mabacup.its.ac.id",
+      "description": "Developed backend services using Prisma ORM, PostgreSQL, GitHub, and Express.js for MABA CUP ITS 2023."
+  },
+  {
+      "title": "Back End Developer",
+      "time": "Oct 2023 - Mar 2024",
+      "organization": "Ini Lho ITS!",
+      "url": "#",
+      "description": "Worked as a backend developer using GitHub, MySQL, and Express.js for Ini Lho ITS! event management system."
+  },
+  {
+      "title": "Problem Setter",
+      "time": "Mar 2024 - May 2024",
+      "organization": "Alpha Academy",
+      "url": "#",
+      "description": "Designed competitive programming problems and provided tutorials for TRY OUT 5 & 6 PERSIAPAN OSNK/OSNP by Alpha Academy."
+  },
+  {
+      "title": "Teacher",
+      "time": "Aug 2023 - Present",
+      "organization": "Mathematics & Reasoning Study at Mathan Group",
+      "url": "#",
+      "description": "Teaching mathematical reasoning, calculus, and critical thinking for college entrance exam (SNBT/UTBK) preparation."
+  },
+  {
+      "title": "Website Developer",
+      "time": "Jan 2019 - Present",
+      "organization": "PT ANTARES DWIMA PRATAMA",
+      "url": "#",
+      "description": "Developed and maintained the website for PT. Antares Dwima Pratama, a company specializing in marine surveying, cargo inspection, and mineral sampling."
+  },
+  {
+      "title": "Member",
+      "time": "Oct 2023 - Present",
+      "organization": "Google Developer Student Clubs (GDSC) ITS",
+      "url": "https://gdsc.community.dev/institut-teknologi-sepuluh-nopember/",
+      "description": "Participating in community-driven projects, technical workshops, and collaborative development within the GDSC network."
+  },
+  {
+      "title": "Member",
+      "time": "Aug 2023 - Present",
+      "organization": "Google Developers Group",
+      "url": "https://developers.google.com/community/gdg",
+      "description": "Engaging in developer networking, tech talks, and workshops to enhance skills in software development."
+  }
+]

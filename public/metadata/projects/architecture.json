@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Go Gin Rest API Design Pattern",
+      "description": "Rest API MVC Design Pattern in golang",
+      "imgSrc": "/golang-banner.png",
+      "href": "https://github.com/abdanhafidz/go-RestAPI-clean-design-pattern"
+    },
+    {
+        "title": "Realtime A.I Chat Streaming",
+        "description": "A.I Chatbot response via Websocket using ExpressJS, integrated with Replicate.",
+        "imgSrc": "/flow.png",
+        "href": "https://github.com/abdanhafidz/Real-time-AI-Chat-Streaming-with-WebSocket-Replicate"
+    },
+    {
+        "title": "Recursive Algorithm Model for Accounting",
+        "description": "🌟 Recursive function implementation in finance python program with MVC Design Pattern",
+        "imgSrc": "/flow.png",
+        "href": "https://github.com/abdanhafidz/finance-accounting-program-with-python"
+    },
+    {
+        "title": "Merge Sort Algorithm Model for Exam Scoring",
+        "description": "🌟 Merge Sort Algorithm for Exam Scoring System",
+        "imgSrc": "/flow.png",
+        "href": "https://github.com/abdanhafidz/merge-sort-exam-scoring-system"
+    }
+
+
+
+
+  ]

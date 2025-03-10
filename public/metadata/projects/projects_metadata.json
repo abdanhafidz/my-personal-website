@@ -1,0 +1,36 @@
+[
+    
+    {
+        "category" : "Artificial Intelligence",
+        "file_name" : "ai_ml"
+    },
+    {
+        "category" : "Web 3.0 & Block-chain",
+        "file_name" : "web3_blockchain"
+    },
+    {
+        "category" : "Architecture & Algorithm",
+        "file_name" : "architecture"
+    },
+    {
+        "category" : "Game Development",
+        "file_name" : "game_dev"
+    },
+    {
+        "category" : "Design",
+        "file_name" : "design"
+    },
+    {
+        "category" : "Landing Page",
+        "file_name" : "landing_page"
+    },
+    {
+        "category" : "Website Application",
+        "file_name" : "website_application"
+    },
+    {
+        "category" : "Company Profile",
+        "file_name" : "company_profile"
+    }
+
+]

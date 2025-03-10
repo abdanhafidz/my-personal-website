@@ -1,0 +1,44 @@
+ [
+    {
+      "href": "https://neso.forpelindo.com/2021",
+      "imgSrc": "/neso.png",
+      "title": "NESO Student Online 2021",
+      "description": "Science event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "https://neso.forpelindo.com/",
+      "imgSrc": "/neso-main.png",
+      "title": "NESO Student Online Website",
+      "description": "Science event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "https://osmc.forpelindo.com",
+      "imgSrc": "/osmc.png",
+      "title": "OSMC Main Website",
+      "description": "Math event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "https://osmc.forpelindo.com/2020",
+      "imgSrc": "/osmc-2020.png",
+      "title": "OSMC 2020",
+      "description": "Math event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "https://osmc.forpelindo.com/2021",
+      "imgSrc": "/osmc-2021.png",
+      "title": "OSMC 2021",
+      "description": "Math event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "https://presition.forpelindo.com/",
+      "imgSrc": "/presition.png",
+      "title": "PRESITION Main Website",
+      "description": "Science event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    },
+    {
+      "href": "http://presition.forpelindo.com/2021",
+      "imgSrc": "/presition-2021.png",
+      "title": "PRESITION 2021",
+      "description": "Science event landing page organized by Yayasan Pelatihan Sains Pelajar Indonesia"
+    }
+  ]

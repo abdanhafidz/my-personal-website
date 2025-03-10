@@ -1,0 +1,74 @@
+[
+    {
+      "href": "https://cbt.forpelindo.com",
+      "imgSrc": "/cbt-forpelindo.png",
+      "title": "Computer Based Test (CBT) System Forpelindo",
+      "description": "Online Examination Platform. (Including Administrator System)"
+    },
+    {
+      "href": "https://evfo.forpelindo.com/",
+      "imgSrc": "/evfo.png",
+      "title": "Eventori Forpelindo (EvFo)",
+      "description": "Online Event Organizer Platform, Including Registration menu, administrator panel, and etc"
+    },
+    {
+      "href": "https://sidasip.forpelindo.com",
+      "imgSrc": "/sidasip.png",
+      "title": "Sistem Informasi Validasi Sertifikat dan Piagam (SiDasiP)",
+      "description": "Electronic Certificate E Sign Validation System"
+    },
+    {
+      "href": "https://cbt.evalatorksn.com",
+      "imgSrc": "/evalysys.png",
+      "title": "EvalatorKSN CBT System (Evalysys)",
+      "description": "Online Examination Platform. (Including Administrator System)"
+    },
+    {
+      "href": "https://event.evalatorksn.com/",
+      "imgSrc": "/event-evalator.png",
+      "title": "Event EvalatorKSN",
+      "description": "Online Event Organizer Platform, Including Registration menu, administrator panel, and etc"
+    },
+    {
+      "href": "#",
+      "imgSrc": "/quzuu.png",
+      "title": "Quzuu Online Examination Platform",
+      "description": "Self-developed platform, used in organizing try outs, practice questions, quizzes"
+    },
+    {
+      "href": "https://abdanhafidz.com/loomba/login.html",
+      "imgSrc": "/loomba.png",
+      "title": "Loomba Dashboard UI Design",
+      "description": "Event Organizer platform, concept, The project that I'm competing for IITC Intermedia Kom 2021"
+    },
+    {
+      "href": "https://osmc.forpelindo.com/2020/pribadireguler/",
+      "imgSrc": "/osmc-register-2021.png",
+      "title": "OSMC 2021 - Registration System",
+      "description": "Online Event Registration System (Including Administrator Panel)"
+    },
+    {
+      "href": "https://abdanhafidz.com/tugas/tugas/",
+      "imgSrc": "/e-tugas.png",
+      "title": "Aplikasi Tugas Online",
+      "description": "Online Assignment Website"
+    },
+    {
+      "href": "https://kelasfeez.id",
+      "imgSrc": "/feez-01.png",
+      "title": "Feez Edutech Platform",
+      "description": "Potential education and skill development platform"
+    },
+    {
+      "href": "https://mabacup-its.com/",
+      "imgSrc": "/mabacup.jpeg",
+      "title": "MabaCUP ITS 2023 (Backend)",
+      "description": "Building Rest API with Express TS, Prisma ORM, and MYSQL"
+    },
+    {
+      "href": "https://aortastan.com",
+      "imgSrc": "/aorta.png",
+      "title": "Aorta Stan",
+      "description": "Online Learning & Examination Platform, developing Admin Panel & User Dashboard using Next JS for Front End, and Laravel for Backend"
+    }
+  ]

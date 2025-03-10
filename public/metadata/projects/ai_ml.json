@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Dawet A.I",
+      "description": " Large-Language-Model (LLM) deployment using Websocket in Python Django framework with MVC Design Pattern",
+      "imgSrc": "/dawet.png",
+      "href": "https://github.com/abdanhafidz?tab=repositories"
+    },
+    {
+        "title": "Real Waste Image Classification",
+        "description": " Image Segmentation & Classification using Tensorflow Keras",
+        "imgSrc": "/realwaste.png",
+        "href": "https://github.com/abdanhafidz/Image-Classification-CNN-Deep-Learning"
+      },
+      {
+        "title": "NLP with MarkovChain",
+        "description": "Traditional Language Modelling using MarkovChain",
+        "imgSrc": "/markov.png",
+        "href": "https://github.com/abdanhafidz/language-modeling-chatbot-using-markov-model-bayesian-network"
+      },
+      {
+        "title": "NLP Framework",
+        "description": "NLP Preprocessing, Feature Extraction, Embedding, Analytics, and Modeling utilities",
+        "imgSrc": "/NLPFramework.png",
+        "href": "https://colab.research.google.com/drive/146jW2F8uM52sy2y6RwbHGfh90usEyG6G?usp=sharing"
+      }
+
+
+
+
+
+  ]
