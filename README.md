@@ -1,4 +1,5 @@
 # Abdan Hafidz Personal Website
+![Screen Recording 2025-03-11 101145](https://github.com/user-attachments/assets/f856871b-7d7e-4801-aee3-3c5e629b031f)
 
 Welcome to my personal website repository! This website serves as my digital portfolio, showcasing my expertise in AI/ML engineering, software development, and educational projects.
 
